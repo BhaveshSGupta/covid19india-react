@@ -7129,7 +7129,7 @@
     "translate": [74.03468857438199, 21.069907]
   },
   "objects": {
-    "madhyapradesh_district": {
+    "districts": {
       "type": "GeometryCollection",
       "geometries": [
         {
@@ -7620,7 +7620,7 @@
           "type": "Polygon",
           "properties": {
             "dt_code": "452",
-            "district": "Narsimhapur",
+            "district": "Narsinghpur",
             "st_code": "23",
             "year": "2011_c",
             "st_nm": "Madhya Pradesh"
